@@ -1,0 +1,33 @@
+# Archivos de salida comunes
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.tsv
+*.npy
+*.npz
+*.log
+*.out
+*.err
+*.txt
+
+# Carpeta de checkpoints de Jupyter (si usas)
+.ipynb_checkpoints/
+
+# Archivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Configuraciones del sistema o IDE
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/datos_filtrados_2/
